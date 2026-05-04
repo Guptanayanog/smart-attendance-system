@@ -1,4 +1,4 @@
-# 🎓 Smart Attendance System — ML-Based Face Recognition + Emotion Detection
+# 🎓 Smart Attendance System — ML-Based Face Recognition and Emotion Detection
 
 An automated classroom attendance system using **Machine Learning** that:
 - Detects and identifies students via face recognition

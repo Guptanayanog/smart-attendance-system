@@ -138,9 +138,9 @@ Attendance is saved to `attendance/attendance_YYYY-MM-DD.csv` and `.xlsx`:
 
 | Student_ID | Student_Name | Status  | Emotion | Time_Detected       | Date       |
 |------------|-------------|---------|---------|---------------------|------------|
-| 101        | Alice        | Present | Happy   | 2024-01-15 09:35:22 | 2024-01-15 |
-| 102        | Bob          | Present | Neutral | 2024-01-15 09:37:45 | 2024-01-15 |
-| 103        | Charlie      | Absent  | N/A     | N/A                 | 2024-01-15 |
+| 1          | maya        | Present | Happy   | 2026-05-15 09:35:22 | 2026-05-15 |
+| 1          | risit       | Present | Neutral | 2026-05-15 09:37:45 | 2026-05-15 |
+| 1          | arya        | Absent  | N/A     | N/A                 | 2026-05-15 |
 
 ---
 
